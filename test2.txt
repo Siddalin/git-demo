@@ -1,1 +1,5 @@
-Hello test2 file, siddu nayak changes
+<<<<<<< HEAD
+Hello test2 file
+=======
+Hello test2 file, new edit in the file
+>>>>>>> 48cf1bcc257699cc9ed832889a83361fdbe348f3
